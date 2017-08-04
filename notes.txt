@@ -1,0 +1,2 @@
+ffmpeg -i iliac_00.avi -c:v libx264 -pix_fmt yuv420p iliac_00.mp4
+
